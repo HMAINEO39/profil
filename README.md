@@ -1,2 +1,14 @@
-# profil
-Profil
+<h1 align="center">Salut 👋, je suis HMAINE Othmane</h1>
+<h3 align="center">Ingénieur Infrastructure Senior</h3>
+
+<h3 align="left">Connecte-toi avec moi :</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/othmane-hmaine-90330a15b/ » target="blank"><img align="center » src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg » alt="https://www.linkedin.com/in/othmane-hmaine-90330a15b/ » hauteur="30 » largeur="40 » /></a>
+</p>
+
+<h3 align="left">Languages and Tools :</h3>
+<p align="left"> <a href="https://aws.amazon.com » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg » alt="aws » largeur="40 » hauteur="40"/> </a > <a href="https://azure.microsoft.com/en-in/ » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg » alt="azure » largeur="40 » hauteur="40"/> </a > <a href="https://www.gnu.org/software/bash/ » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg » alt="bash » largeur="40 » hauteur="40"/> </a > <a href="https://www.docker.com/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg » alt="docker » width="40 » hauteur="40"/> </a > <a href="https://git-scm.com/ » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg » alt="git » width="40 » hauteur="40"/> </a > <a href="https://grafana.com » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg » alt="grafana » width="40 » height="40"/> </a > <a href="https://www.jenkins.io » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg » alt="jenkins » largeur="40 » hauteur="40"/> </a > <a href="https://www.linux.org/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg » alt="linux » width="40 » hauteur="40"/> </a > <a href="https://www.microsoft.com/en-us/sql-server » target="_blank » rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg » alt="mssql » largeur="40 » hauteur="40"/> </a > <a href="https://www.mysql.com/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg » alt="mysql » width="40 » hauteur="40"/> </a > <a href="https://www.oracle.com/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg » alt="oracle » width="40 » hauteur="40"/> </a > </p>
+
+<p><img align="left » src="https://github-readme-stats.vercel.app/api/top-langs?username=hmaineo39&show_icons=true&locale=en&layout=compact » alt="hmaineo39 » /></p>
+
+<p>&nbsp ; <img align="center » src="https://github-readme-stats.vercel.app/api?username=hmaineo39&show_icons=true&locale=en » alt="hmaineo39 » /></p>
