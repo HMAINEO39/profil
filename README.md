@@ -60,4 +60,4 @@ Basé à Casablanca, je suis un ingénieur passionné avec une **double compéte
 Vous souhaitez échanger sur l'architecture Infra, l'automatisation ou des opportunités ?
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othmane-hmaine-90330a15b/)
-- 📧 **Email** : othmanehermaine@gmail.com
+- 📧 **Email** : othmanehmaine@gmail.com
